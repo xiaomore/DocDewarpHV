@@ -77,7 +77,7 @@ DocDewarpHV/
 
 ### How to obtain the dataset
 
-You can download the entire DocDewarpHV dataset from Baidu Netdisk (size: ~600GB). We will upload it soon.
+You can download the entire DocDewarpHV dataset from [Baidu Netdisk](https://pan.baidu.com/s/1vuvm-f0wMuMivcV35VGbpA?pwd=uug6). Size: ~600GB.
 
 ### Dataset loading
 
@@ -98,3 +98,17 @@ If you have any questions about this dataset, you can always contact [hengli.lh@
 Thanks to [Doc3D](https://github.com/cvlab-stonybrook/doc3D-dataset), the code for this DocDewarpHV data synthesis is based on it.
 We also thanks to [cddod](https://github.com/kailigo/cddod), [CDLA](https://github.com/buptlihang/CDLA), [M6Doc](https://github.com/HCIILAB/M6Doc) and [PubLayNet](https://github.com/ibm-aur-nlp/PubLayNet)
 for their outstanding work in open-sourcing the original document images.
+
+### Citation
+
+```text
+@misc{li2025dualdimensionsgeometricrepresentation,
+      title={Dual Dimensions Geometric Representation Learning Based Document Dewarping}, 
+      author={Heng Li and Qingcai Chen and Xiangping Wu},
+      year={2025},
+      eprint={2507.08492},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.08492}, 
+}
+```
