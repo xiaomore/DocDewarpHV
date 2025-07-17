@@ -102,13 +102,10 @@ for their outstanding work in open-sourcing the original document images.
 ### Citation
 
 ```text
-@misc{li2025dualdimensionsgeometricrepresentation,
-      title={Dual Dimensions Geometric Representation Learning Based Document Dewarping}, 
-      author={Heng Li and Qingcai Chen and Xiangping Wu},
-      year={2025},
-      eprint={2507.08492},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2507.08492}, 
+@article{li2025dual,
+  title={Dual Dimensions Geometric Representation Learning Based Document Dewarping},
+  author={Li, Heng and Chen, Qingcai and Wu, Xiangping},
+  journal={arXiv preprint arXiv:2507.08492},
+  year={2025}
 }
 ```
