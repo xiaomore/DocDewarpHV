@@ -30,47 +30,27 @@ DocDewarpHV/
         alb_v/
             cddod_1/
                 1-0_ann0001.png
-                1-1_ann0001.png
                 ...
-            CDLA_1/
-            M6Doc_test_1/
-            publaynet_train_1/
             ...
         bm/
             cddod_1/
                 1-0_ann0001.mat
-                1-1_ann0001.mat
                 ...
-            CDLA_1/
-            M6Doc_test_1/
-            publaynet_train_1/
             ...
         uvmat/
              cddod_1/
                 1-0_ann0001.mat
-                1-1_ann0001.mat
                 ...
-             CDLA_1/
-             M6Doc_test_1/
-             publaynet_train_1/
              ...
         warp_img/
              cddod_1/
                 1-00001.png
-                1-10001.png
                 ...
-             CDLA_1/
-             M6Doc_test_1/
-             publaynet_train_1/
              ...
         wc/
             cddod_1/
                 1-0_ann0001.exr
-                1-1_ann0001.exr
                 ...
-            CDLA_1/
-            M6Doc_test_1/
-            publaynet_train_1/
             ...
         DocDewarpHV.txt
 ```
