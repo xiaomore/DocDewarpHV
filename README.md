@@ -1,3 +1,5 @@
+Our work "D2Dewarp: Dual Dimensions Geometric Representation Learning Based Document Image Dewarping" is accepted by CVPR 2026.
+
 ## DocDewarpHV
 
 This repository provides a new and more fine-grained annotated distorted document training dataset called DocDewarpHV.
