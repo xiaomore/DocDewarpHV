@@ -84,6 +84,14 @@ for their outstanding work in open-sourcing the original document images.
 ### Citation
 
 ```text
+@inproceedings{li2026d2dewarp,
+  title={D2Dewarp: Dual Dimensions Geometric Representation Learning Based Document Image Dewarping},
+  author={Li, Heng and Wu, Xiangping and Chen, Qingcai},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={34734--34744},
+  year={2026}
+}
+
 @article{li2025dual,
   title={Dual Dimensions Geometric Representation Learning Based Document Dewarping},
   author={Li, Heng and Chen, Qingcai and Wu, Xiangping},
